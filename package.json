@@ -1,0 +1,10 @@
+{
+    "name": "dummy_package",
+    "description": "Note: double curly-braces because python .format",
+    "version": "0.0.0",
+    "dependencies": {
+        "tslint": "^5.10.0",
+        "typescript": "^2.9.2",
+        "typescript-formatter": "^7.2.2"
+    }
+}
